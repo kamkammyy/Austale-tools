@@ -9,8 +9,8 @@ To execute those on Android:
 - Download Shizuku & ZArchiver & Termux (Termux preferably downloaded from F-Droid)
 - Do the Shizuku process
 - Link it to ZArchiver
-- Go to Austale data folder (Shizuku grants access to data folder)
-- Copy&Paste/Move ur Austale boss folder to either Termux home directory or simply ur device's public storage
+- Go to Austale data folder using ZArchiver (Shizuku grants access to data folder)
+- Copy & Paste ur Austale boss folder to either Termux home directory or simply ur device's public storage
 - And now you should be able to execute the scripts on ur Austale folder using Termux (Termux can't directly execute scripts -on Austale's data folder so that's why you have to move it somewhere else.)
 - When ur done executing your script just put it back to Austale's data folder.
 
